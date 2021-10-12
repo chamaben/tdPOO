@@ -5,6 +5,6 @@ class MyThread extends Thread{
         super(s); 
         }
     public void run(){ 
-    System.out.println("Hello, I am "+ getName());
+    System.out.println("Helllo, I am "+ getName());
     }
 }
